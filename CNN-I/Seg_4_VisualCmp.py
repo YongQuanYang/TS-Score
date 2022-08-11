@@ -27,7 +27,7 @@ restore_saver.restore(sess, './ckpt/model.ckpt')
 
 imgp = './testing_data/img'
 gtp = './testing_data/gt'
-visual_path = './testing_data/pred_4_VisualCmp'
+visual_path = './pred_4_VisualCmp'
 
 if not os.path.exists(visual_path):
     os.makedirs(visual_path)

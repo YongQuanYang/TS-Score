@@ -27,7 +27,7 @@ sess.run(tf.global_variables_initializer())
 restore_saver.restore(sess, './ckpt/model.ckpt')
 
 imgp = './testing_data/img'
-stroma_path = './testing_data/pred_4_pCR'
+stroma_path = './pred_4_pCR'
 
 if not os.path.exists(stroma_path):
     os.makedirs(stroma_path)
