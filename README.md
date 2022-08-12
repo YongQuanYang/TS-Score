@@ -11,7 +11,7 @@ The script Seg_4_VisualCmp.py is for visualized comparison of the predictions of
     
 The script Seg_4_pCR.py is for generating the stroma regions for pCR scoring using the pre-trained deep CNN segmentation model.
 
-Our paper for the details of the construction of CNN-I is available at: https://arxiv.org/ftp/arxiv/papers/2110/2110.10325.pdf 
+Our paper for the details of the construction and evaluation of CNN-I is available at: https://arxiv.org/ftp/arxiv/papers/2110/2110.10325.pdf 
 
 
 2. CNN-II
