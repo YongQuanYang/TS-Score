@@ -9,7 +9,7 @@ The CNN-I folder provides the pre-trained deep CNN segmentation model (available
 
 The script Seg_4_VisualCmp.py is for visualized comparison of the predictions of the pre-trained deep CNN segmentation model with mannually labeled ground-truth.
     
-The script Seg_4_pCR is for generating the stroma regions for pCR scoring using the pre-trained deep CNN segmentation model.
+The script Seg_4_pCR.py is for generating the stroma regions for pCR scoring using the pre-trained deep CNN segmentation model.
 
 Our paper for the details of the construction of CNN-I is available at: https://arxiv.org/ftp/arxiv/papers/2110/2110.10325.pdf 
 
