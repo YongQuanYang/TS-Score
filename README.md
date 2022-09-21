@@ -20,7 +20,7 @@ Dependencies: python 3.5, tensorflow 2.3.0
 
 The CNN-II folder provides the pre-trained deep CNN pCR scoring model (available at: https://pan.baidu.com/s/1SWH1PEvlIfttu-aotjoF7g?pwd=ckpt) and corresponding python scripts that were used to generate the TS-Score proposed in our paper, based on the stroma regions proposed by CNN-I.
 
-The script TS-Score_Prediction.py is for scoring each path of stroma regions proposed by CNN-I.
+The script TS-Score_Prediction.py is for scoring each patch of stroma regions proposed by CNN-I.
     
 The script TS-Score_Generation.py is for generating the TS-Score, based on the scored pathces of stroma regions proposed by CNN-I.
     
