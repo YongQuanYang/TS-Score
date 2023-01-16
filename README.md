@@ -1,4 +1,4 @@
-This project maintains the source codes for the generation of the TS-Score proposed in our paper.
+This project maintains the source codes for the generation of the TS-Score proposed in our paper(available at: https://www.nature.com/articles/s41523-022-00491-1).
 
 
 1. CNN-I
